@@ -9,6 +9,8 @@ use macgyer\yii2materializecss\widgets\navigation\NavBar;
 use macgyer\yii2materializecss\widgets\navigation\Breadcrumbs;
 use macgyer\yii2materializecss\widgets\Alert;
 
+use frontend\assets\AppAsset;
+
 
 AppAsset::register($this);
 ?>
