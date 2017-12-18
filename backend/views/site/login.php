@@ -24,7 +24,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
             <div class="col-md-5">
                 <div class="card">
-                    <div class="card-header text-center" data-background-color="purple">
+                    <div class="card-header text-center" data-background-color="green">
                         <h4 class="title">
                             <?= Html::encode($this->title) ?>
                         </h4>
