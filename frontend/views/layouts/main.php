@@ -3,12 +3,12 @@
 /* @var $this \yii\web\View */
 /* @var $content string */
 
-use yii\helpers\Html;
-use yii\bootstrap\Nav;
-use yii\bootstrap\NavBar;
-use yii\widgets\Breadcrumbs;
-use frontend\assets\AppAsset;
-use common\widgets\Alert;
+use macgyer\yii2materializecss\lib\Html;
+use macgyer\yii2materializecss\widgets\navigation\Nav;
+use macgyer\yii2materializecss\widgets\navigation\NavBar;
+use macgyer\yii2materializecss\widgets\navigation\Breadcrumbs;
+use macgyer\yii2materializecss\widgets\Alert;
+
 
 AppAsset::register($this);
 ?>
